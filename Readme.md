@@ -9,10 +9,10 @@ The input vector for this neural network is definitely sparse therefore we are d
 ### 4. Reducing Noise by Strategically Reducing the Vocabulary.
 The title speaks for itself. We have a Count threshold on the words and create a polarity metric to measure whether a word is 'POSITIVE' or 'NEGATIVE' and remove the words that lie somewhere in the middle.
 
-`
+```
 Training
 Progress:99.9% Speed(reviews/sec):1361. #Correct:20553 #Trained:24000 Training Accuracy:85.6%
 
 Testing
 Progress:99.9% Speed(reviews/sec):1759. #Correct:856 #Tested:1000 Testing Accuracy:85.6%
-`
+```
