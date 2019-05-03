@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment-Analysis in python From Scratch
   
 ### 1. Build Neural Network.
 You can specify the number of input_nodes, hidden_nodes and output_nodes. The input is just a<br> vector of all the word counts that are in the review and a label for each review ('POSITIVE' <br>or 'NEGATIVE'). Gave an accuracy of about 60%.
