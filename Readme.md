@@ -1,7 +1,7 @@
 # Sentiment-Analysis in python From Scratch (Sentiment-Network.py)
   
 ### 1. Build Neural Network.
-![Network Image](https://github.com/dragod812/Sentiment-Analysis/blob/master/sentiment_network_2.png)
+![Network Image](https://github.com/dragod812/Sentiment-Analysis/blob/master/sentiment_network_2.png)<br>
 You can specify the number of input_nodes, hidden_nodes and output_nodes. The input is just a<br> vector of all the word counts that are in the review and a label for each review ('POSITIVE' <br>or 'NEGATIVE'). Gave an accuracy of about 60%.
 ### 2. Reduce Noice in the Data.
 We decided to reduce the noise in the data by taking a boolean value for the words rather than a count. This way we got increased accuracy. Accuracy of nearly 80%.
